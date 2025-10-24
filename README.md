@@ -43,7 +43,8 @@ from.models import Student_Detail, Student_DetailAdmin
 admin.site.register(Student_Detail,Student_DetailAdmin)
 ```
 ## OUTPUT
-![alt text](<ORM web app screenshot-1.png>)
-![alt text](<ORM web app screenshot-2.png>)
+<img width="1920" height="1080" alt="ORM web app screenshot-1" src="https://github.com/user-attachments/assets/89c50e6f-5631-4519-9df7-65e27dd2eacc" />
+<img width="1920" height="1080" alt="ORM web app screenshot-2" src="https://github.com/user-attachments/assets/7042bdf9-bf3c-4829-b3f5-1a347c3e4702" />
+
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
